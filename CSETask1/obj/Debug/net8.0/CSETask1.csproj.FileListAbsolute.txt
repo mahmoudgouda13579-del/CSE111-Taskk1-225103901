@@ -1,0 +1,4 @@
+C:\Users\Cs\source\repos\CSETask1\CSETask1\obj\Debug\net8.0\CSETask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cs\source\repos\CSETask1\CSETask1\obj\Debug\net8.0\CSETask1.AssemblyInfoInputs.cache
+C:\Users\Cs\source\repos\CSETask1\CSETask1\obj\Debug\net8.0\CSETask1.AssemblyInfo.cs
+C:\Users\Cs\source\repos\CSETask1\CSETask1\obj\Debug\net8.0\CSETask1.csproj.CoreCompileInputs.cache
